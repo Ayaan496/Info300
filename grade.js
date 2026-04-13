@@ -10,7 +10,7 @@ while (true){
     testScore = (average * .75) + (finalScore * .25)
     var letterGrade;
     
-    
+    //called testScore because i repurposed in class code, testScore is final grade
     if (testScore < 0 || testScore >100){
         console.log("Invalid Score")
         return
