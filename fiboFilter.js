@@ -1,3 +1,4 @@
+//Ayaan Mushtaq
 var readLineSync = require('readline-sync')
 
 var n = readLineSync.questionInt("Input the number of Fibonacci numbers to generate: ")

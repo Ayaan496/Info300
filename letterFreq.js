@@ -1,3 +1,4 @@
+//Ayaan Mushtaq
 var readLineSync = require('readline-sync');
 
 var userString = readLineSync.question("Please enter a string: ");

@@ -1,3 +1,4 @@
+//Ayaan Mushtaq
 const readlineSync = require('readline-sync');
 let start = readlineSync.question("Enter start number: ");
 let end = readlineSync.question("Enter end number: ");
